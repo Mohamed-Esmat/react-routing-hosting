@@ -137,4 +137,3 @@ Thank you for helping improve our project!
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-```
